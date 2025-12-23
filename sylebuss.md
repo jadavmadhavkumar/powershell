@@ -85,22 +85,21 @@ re **all the topics noted from the document**, organized unit-wise and clearly l
 * PowerShell Scripting:
 
   * Special Variables
-    * Operators
-      * Looping
-        * Conditions
-          * Arrays
-            * Hash Tables
-              * Regex
-                * Blacklists
-                  * Alias
-                  * WMIC & PowerShell Providers and Drives
-                  * `$Args` Variable
-                  * `param` Statement
-                  * Passing Data by Value and by Reference
+  * Operators
+  * Looping
+  * Conditions
+  * Arrays
+  * Hash Tables
+  * Regex
+  * Blacklists
+  * Alias
+  * WMIC & PowerShell Providers and Drives
+* `$Args` Variable
+* `param` Statement
+* Passing Data by Value and by Reference
 
-                  ---
 
-* PowerShell Advanced Functions
+## *PowerShell Advanced Functions*
 * PowerShell Remoting Capabilities:
 
   * Remoting Concepts
