@@ -283,11 +283,3 @@ Handling errors using `$?`, `$Error`, and `$LastExitCode` is essential for writi
 
 ---
 
-### ✅ If you want, I can also:
-
-* Add **diagram-based explanations**
-* Provide **10-mark / 15-mark model answers**
-* Give **real SOC script examples**
-* Convert this into **PDF notes**
-
-Just tell me 👍
